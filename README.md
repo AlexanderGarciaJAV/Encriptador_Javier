@@ -48,4 +48,4 @@ Seguridad: Aunque el proyecto se centra en la funcionalidad básica de encriptac
 Uso de Librerías: Se hace uso de librerías externas como Font Awesome para íconos y Google Fonts para fuentes, mejorando la estética del proyecto sin necesidad de desarrollar estos recursos desde cero.
 
 Pagina web
-![Qr](https://github.com/user-attachments/assets/c542a386-4339-4d23-9b4c-c1af95f3bcb7)
+https://alexandergarciajav.github.io/Encriptador_Javier/
